@@ -1,4 +1,4 @@
-# gao
+# goa
 API Development in Go Using Goa
 
 Generate the boilerplate code. The following command takes the design package import path as an argument. It also accepts the path to the output directory as an optional flag:
